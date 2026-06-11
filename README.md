@@ -19,3 +19,9 @@ Then visit `http://localhost:3000`.
 - Keyboard: left/right arrows
 - Mobile: tap left/right edges or swipe
 - Print: browser print dialog
+## Versions
+
+- English translation: `/`
+- Original Portuguese deck: `/original-pt.html`
+
+Both versions use the same copied media assets in `public/`.
